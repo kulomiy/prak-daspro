@@ -1,0 +1,10 @@
+Hello Github, ini adalah repository pertama saya.
+
+Ini Fitur 1 yang lagi kepanasan
+
+panas kah?
+iyaa
+masa si?
+mau makan apa nanti?
+makan bakso
+sama minum teh
